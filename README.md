@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate **Software Engineer** with over **10 years of experience** building scalable, high-performance mobile and web applications.  
+I'm a passionate **Software Engineer** with over **12 years of experience** building scalable, high-performance mobile and web applications.  
 I specialize in **React Native**, **Flutter**, and **Laravel**, with a strong background in **Data Science** and **Machine Learning**.  
 
 Currently, I work as a **Mobile Application Developer** in **Dubai, UAE**, where I focus on developing cross-platform mobile apps that serve thousands of active users.
@@ -77,23 +77,6 @@ Focus: Mental workload prediction for office workers
 **🎓 Master’s Degree in Data Science and Analytics**  
 *Universiti Sains Malaysia (USM), 2020*
 
-**🎓 Bachelor’s Degree in Computer Science**  
-*Sudan University of Science and Technology*
-
----
-
-## 💼 Experience
-
-**Mobile Application Developer** — *Tradeling, Dubai (Apr 2023 – Present)*  
-- Built and optimized production-level mobile apps in Flutter.  
-- Integrated analytics, notifications, and payment systems.  
-
-**Full-Stack Developer** — *Freelance (2017 – 2023)*  
-- Delivered 30+ custom mobile and web solutions for startups and enterprises.  
-
-**Data Scientist (6 months)** — *Research & Development Projects*  
-- Designed ML models for anomaly detection and EEG data analysis.  
-
 ---
 
 ## 🧰 Side Projects & Initiatives
@@ -113,7 +96,6 @@ Focus: Mental workload prediction for office workers
 
 ## 📬 Contact
 
-📧 **Email:** [Add your email here]  
 🔗 **Website:** [osamaabdalla.com](https://osamaabdalla.com)  
 💼 **LinkedIn:** [linkedin.com/in/osamaabdallacom](https://linkedin.com/in/osamaabdallacom)   
 💻 **GitHub:** [github.com/osamaabdalla](https://github.com/osamaabdalla)
