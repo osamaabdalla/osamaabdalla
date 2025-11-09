@@ -46,10 +46,10 @@ I hold a **Master’s Degree in Data Science and Analytics** from **Universiti S
 
 ## 🏗️ Featured Projects
 
-### 🧱 [Tradeling Mobile App](https://tradeling.com)
-> **Flutter & Laravel**  
+### 🧱 Tradeling Mobile App
+> **Flutter**  
 E-commerce app connecting buyers and suppliers across the MENA region.  
-Developed multi-vendor modules, real-time chat, analytics, and performance optimization.
+Developed multi-vendor modules, analytics, and performance optimization.
 
 ### 📱 myUnifi (Malaysia)
 > **React Native, Redux, REST API**  
